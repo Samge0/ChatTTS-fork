@@ -30,6 +30,6 @@ params_refine_text = {
 
 输出结果：
 
-[result.wav](display/result.wav)
+[result.mov](display/result.mov)
 
 ![result.jpg](display/result.jpg)
