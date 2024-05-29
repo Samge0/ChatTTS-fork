@@ -30,6 +30,6 @@ params_refine_text = {
 
 输出结果：
 
-[result.mov](display/result.mov)
+[result.mov](https://drive.google.com/file/d/1xXIkiaea48fsEvC1OsV2GiMbHnOO-L6f/view)
 
 ![result.jpg](display/result.jpg)
