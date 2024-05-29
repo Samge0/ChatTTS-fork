@@ -30,6 +30,6 @@ params_refine_text = {
 
 输出结果：
 
-[result.mov](https://drive.google.com/file/d/1xXIkiaea48fsEvC1OsV2GiMbHnOO-L6f/view)
+[result.mov](https://github.com/Samge0/ChatTTS-fork/assets/17336101/bc2e70a2-a510-4d09-9b05-6f97cc62e884)
 
-![result.jpg](display/result.jpg)
+![result.jpg](https://github.com/Samge0/ChatTTS-fork/assets/17336101/dd1a4fd9-d6d6-4089-9160-49089c63c41a)
