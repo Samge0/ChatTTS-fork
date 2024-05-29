@@ -1,0 +1,12 @@
+{
+	"name": "chattts",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "chattts",
+    "workspaceFolder": "/app",
+    "extensions": [
+        "ms-python.python",
+        "ms-python.debugpy",
+        "humao.rest-client",
+        "samge.vscode-samge-translate"
+    ]
+}
