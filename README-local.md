@@ -30,9 +30,6 @@ params_refine_text = {
 
 输出结果：
 
-<audio controls>
-  <source src="display/result.wav" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+[result.wav](display/result.wav)
 
 ![result.jpg](display/result.jpg)
